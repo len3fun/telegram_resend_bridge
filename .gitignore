@@ -1,0 +1,6 @@
+setenv.sh
+.vscode
+.idea
+__pycache__
+*.session-journal
+*.session
